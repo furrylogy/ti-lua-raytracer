@@ -328,7 +328,7 @@
 
 
     Menu = {
-        {"选项",{"说明",Discription},{"预览",Preview},{"最小渲染(预计耗时两分钟)",Minrender},{"正常渲染(预计耗时半小时)",Normrender}},{"作者 五爱高中-李宇涵",{"",Discription}}
+        {"选项",{"说明",Discription},{"预览",Preview},{"最小渲染(预计耗时两分钟)",Minrender},{"正常渲染(预计耗时半小时)",Normrender}},{"作者 logy",{"",Discription}}
         }
 
 
